@@ -40,7 +40,7 @@
     ]
   },
   "devDependencies": {
-    "autoprefixer": "^9",
+    "autoprefixer": "^10",
     "postcss": "^7",
     "snazzy": "^9.0.0",
     "standard": "*",
